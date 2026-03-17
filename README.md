@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Nishad</h1>
+<h1 align="center">Hi, I'm Ankit Nishad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 💬 Ask me about **React.js, node.js, java**
