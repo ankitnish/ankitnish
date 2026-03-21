@@ -1,7 +1,23 @@
 <h1 align="center">Hi, I'm Ankit Nishad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 💬 Ask me about **React.js, node.js, java**
+- # Hi 👋, I'm Ankit
+
+💻 Full Stack Developer (Learning)
+🚀 MERN Stack | Java | DSA
+
+## 🔧 Tech Stack
+- Java, JavaScript
+- React, Node.js, Express
+- MongoDB, MySQL
+- Git, Linux, REST APIs
+
+## 📈 Current Focus
+- DSA (LeetCode)
+- Web development
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/ankit-nishad-053296225
 
 - 📫 Reach me **ankitn575@gmail.com**
 
