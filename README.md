@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ankit Nishad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- # Hi 👋, I'm Ankit
-
 💻 Full Stack Developer (Learning)
 🚀 MERN Stack | Java | DSA
 
