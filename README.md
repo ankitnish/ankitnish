@@ -46,51 +46,38 @@ const ankit = {
 <tr>
 <td width="50%" valign="top">
 
-**[Project One](https://github.com/ankitnish/project-one)**
-Short, punchy description of the problem it solves and any measurable impact (users, performance, scale).
-`React` `Node.js` `MongoDB`
+**[MeshPay](https://github.com/ankitnish/meshpay)** — Secure P2P Payment Platform
+Production-grade MERN payment app with stateless JWT auth, bcrypt-encrypted transactions, and a secure REST API. Deployed cloud-natively across Vercel and Render.
+`React` `Node.js` `Express` `MongoDB Atlas` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-**[Project Two](https://github.com/ankitnish/project-two)**
-Short, punchy description of the problem it solves and any measurable impact (users, performance, scale).
-`Express` `MySQL` `JWT`
+**[AQIFlow](https://github.com/ankitnish/aqiflow)** — AI-Driven Air Quality Intelligence
+Full-stack AQI monitoring platform with real-time data streaming and Leaflet.js geo-heatmaps. A Random Forest model serves predictions via a FastAPI microservice at sub-200ms response times.
+`React` `Node.js` `Express` `MongoDB` `Python` `FastAPI` `Scikit-learn`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="100%" valign="top">
 
-**[Project Three](https://github.com/ankitnish/project-three)**
-Short, punchy description of the problem it solves and any measurable impact (users, performance, scale).
-`TypeScript` `React` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-**[Project Four](https://github.com/ankitnish/project-four)**
-Short, punchy description of the problem it solves and any measurable impact (users, performance, scale).
-`Java` `DSA` `Algorithms`
+**[MentorConnect](https://github.com/ankitnish/mentorconnect)** — Full-Stack Mentor–Mentee Platform
+MERN SaaS platform connecting mentors and mentees with multi-role access control and real-time session management. Ships 15+ REST endpoints with JWT auth, hashed passwords, and MongoDB aggregation pipelines; component refactor cut the UI codebase by ~25%.
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
 </td>
 </tr>
 </table>
 
-<sub>Replace these four with your real repos — one line each on what it does, who it's for, and any concrete number (latency, users, test coverage).</sub>
+<sub>Repo links above are placeholders (ankitnish/meshpay, etc.) — send me the real GitHub/live-demo URLs and I'll wire them in.</sub>
 
 <br/>
 
-### 📊 GitHub Analytics
+### 🏆 LeetCode Progress
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitnish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitnish&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitnish&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://leetcard.jacoblin.cool/ankitnishad?theme=dark&font=Nunito&ext=heatmap" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/ankitnishad?theme=dark&font=Nunito&ext=heatmap" width="70%" />
 </div>
 
 <br/>
