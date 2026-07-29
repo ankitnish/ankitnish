@@ -5,9 +5,6 @@
 <a href="https://linkedin.com/in/ankit-nishad-053296225">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="https://leetcode.com/ankitnishad">
-  <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
 <a href="mailto:ankitn575@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" />
 </a>
@@ -72,15 +69,7 @@ MERN SaaS platform connecting mentors and mentees with multi-role access control
 
 <sub>Repo links above are placeholders (ankitnish/meshpay, etc.) — send me the real GitHub/live-demo URLs and I'll wire them in.</sub>
 
-<br/>
 
-### 🏆 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ankitnishad?theme=dark&font=Nunito&ext=heatmap" width="70%" />
-</div>
-
-<br/>
 
 ### 📫 Let's Connect
 
