@@ -74,7 +74,7 @@ MERN SaaS platform connecting mentors and mentees with multi-role access control
 I'm open to full-stack roles, collaborations, and good engineering conversations.
 
 <a href="https://linkedin.com/in/ankit-nishad-053296225">LinkedIn</a> ·
-<a href="mailto:ankitn575@gmail.com">Email</a> ·
+<a href="mailto:ankitn575@gmail.com">Email</a> 
 
 <br/><br/>
 
