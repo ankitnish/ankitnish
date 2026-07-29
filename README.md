@@ -67,10 +67,6 @@ MERN SaaS platform connecting mentors and mentees with multi-role access control
 </tr>
 </table>
 
-<sub>Repo links above are placeholders (ankitnish/meshpay, etc.) — send me the real GitHub/live-demo URLs and I'll wire them in.</sub>
-
-
-
 ### 📫 Let's Connect
 
 <div align="center">
@@ -79,7 +75,6 @@ I'm open to full-stack roles, collaborations, and good engineering conversations
 
 <a href="https://linkedin.com/in/ankit-nishad-053296225">LinkedIn</a> ·
 <a href="mailto:ankitn575@gmail.com">Email</a> ·
-<a href="https://leetcode.com/ankitnishad">LeetCode</a>
 
 <br/><br/>
 
