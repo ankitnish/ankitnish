@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Ankit Nishad 👋</h1>
-
+<h1 align="center">Hi there, I'm Ankit Nishad 👋</h1>
 <p align="center">
-  <b>Full Stack Developer (MERN) · Java & DSA Enthusiast · School of IT, RGPV · Bhopal, India</b>
+  <b>Full Stack Developer (MERN) · Java & DSA Enthusiast</b><br/>
+  <sub>School of IT, RGPV · Bhopal, India</sub>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ankit-nishad-053296225">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/ankitnishad">
+  <a href="https://leetcode.com/ankitnishad">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:ankitn575@gmail.com">
@@ -16,17 +16,17 @@
   </a>
 </p>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-- 🚀 Building full-stack web apps with the **MERN stack**
-- ☕ Sharpening **Data Structures & Algorithms** skills in Java on LeetCode
-- 🌱 Currently exploring **TypeScript** and **system design** concepts
-- 🎯 Goal: Land a full-stack developer role and contribute to meaningful products
+- 🚀 Building full-stack web applications with the **MERN stack**
+- ☕ Sharpening **Data Structures & Algorithms** in Java on LeetCode
+- 🌱 Currently exploring **TypeScript** and **system design**
+- 🎯 Actively looking for a **full-stack developer role**
 - 📍 Based in **Bhopal, India**
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +56,23 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+<br/>
+
+## 🚀 Featured Projects
+
+<!--
+Recruiters scan this section first — replace with 2–4 of your strongest projects.
+Format: **[Project Name](repo-link)** — one-line description of what it does and the impact/scale.
+Tip: link the live demo too if you have one hosted (Vercel/Render/Netlify).
+-->
+
+| Project | Description | Tech |
+|---|---|---|
+| **[Project Name](https://github.com/ankitnish/repo)** | One-line description of what it does and why it matters | React · Node.js · MongoDB |
+| **[Project Name](https://github.com/ankitnish/repo)** | One-line description of what it does and why it matters | Express · MySQL |
+| **[Project Name](https://github.com/ankitnish/repo)** | One-line description of what it does and why it matters | TypeScript · React |
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -64,12 +80,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ankitnish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitnish&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitnish&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
----
+<br/>
 
 ## 🏆 LeetCode Progress
 
@@ -77,16 +92,16 @@
   <img src="https://leetcard.jacoblin.cool/ankitnishad?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
----
+<br/>
 
 ## 📫 Let's Connect
 
 I'm open to collaborations, project ideas, or just a good tech conversation!
 
 - 💼 [LinkedIn](https://linkedin.com/in/ankit-nishad-053296225)
-- 📧 ankitn575@gmail.com
+- 📧 [ankitn575@gmail.com](mailto:ankitn575@gmail.com)
 
----
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitnish&label=Profile+Views&color=0e75b6&style=flat" />
