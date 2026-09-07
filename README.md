@@ -56,15 +56,6 @@ Full-stack AQI monitoring platform with real-time data streaming and Leaflet.js 
 
 </td>
 </tr>
-<tr>
-<td colspan="2" width="100%" valign="top">
-
-**[MentorConnect](https://github.com/ankitnish/mentorconnect)** — Full-Stack Mentor–Mentee Platform
-MERN SaaS platform connecting mentors and mentees with multi-role access control and real-time session management. Ships 15+ REST endpoints with JWT auth, hashed passwords, and MongoDB aggregation pipelines; component refactor cut the UI codebase by ~25%.
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-</td>
-</tr>
 </table>
 
 ### 📫 Let's Connect
