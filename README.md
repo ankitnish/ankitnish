@@ -23,7 +23,6 @@ const ankit = {
   stack: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
   currentlyLearning: ["TypeScript", "System Design"],
   lookingFor: "Full-stack roles / open-source collaboration",
-  funFact: "Debugs faster with coffee than without ☕"
 };
 ```
 
